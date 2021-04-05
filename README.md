@@ -1,2 +1,2 @@
-# javascript-projects
-Practice with Vanilla JS
+# Javascript Projects
+### Release 0.9
